@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40362'
     url: http://www.gutenberg.org/2009/agents/40362
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40054#Margaret-Capel-v.-3-of-3A-Novel
 gutenberg_issued: '2012-06-22'
 gutenberg_type: Text
 identifiers:
